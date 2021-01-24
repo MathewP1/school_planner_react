@@ -1,0 +1,8 @@
+td{
+    background-color: aqua;
+}
+
+td:hover{
+    background-color: magenta;
+    cursor: pointer;
+}
